@@ -8,6 +8,7 @@ Google Doc: https://docs.google.com/document/d/1-83G0zcgRQtNctoOyLgQkqWkIg5sNQKf
 
 # Feature List
 - Account Management
+    * Material over firebase
 - SignUp Flow
 - SignIn Flow
 
